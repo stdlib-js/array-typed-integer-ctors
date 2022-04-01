@@ -1,0 +1,41 @@
+{
+  "name": "@stdlib/array-typed-integer-ctors",
+  "version": "0.0.0",
+  "description": "Integer-valued typed array constructors.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/array-typed-integer-ctors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "types",
+    "array",
+    "typed array",
+    "typed-array",
+    "typed",
+    "dtypes",
+    "dtype",
+    "data",
+    "type",
+    "structure",
+    "constructors",
+    "constructor",
+    "ctors",
+    "ctor",
+    "utilities",
+    "utility",
+    "utils",
+    "util"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
