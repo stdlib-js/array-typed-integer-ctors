@@ -1,4 +1,0 @@
-// Copyright (c) 2023 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
-/// <reference types="./index.d.ts" />
-import t from"https://cdn.jsdelivr.net/gh/stdlib-js/array-int16@esm/index.mjs";import i from"https://cdn.jsdelivr.net/gh/stdlib-js/array-int32@esm/index.mjs";import s from"https://cdn.jsdelivr.net/gh/stdlib-js/array-int8@esm/index.mjs";import n from"https://cdn.jsdelivr.net/gh/stdlib-js/array-uint16@esm/index.mjs";import r from"https://cdn.jsdelivr.net/gh/stdlib-js/array-uint32@esm/index.mjs";import e from"https://cdn.jsdelivr.net/gh/stdlib-js/array-uint8@esm/index.mjs";import d from"https://cdn.jsdelivr.net/gh/stdlib-js/array-uint8c@esm/index.mjs";var m={int16:t,int32:i,int8:s,uint16:n,uint32:r,uint8:e,uint8c:d};function j(t){return m[t]||null}export{j as default};
-//# sourceMappingURL=index.mjs.map
