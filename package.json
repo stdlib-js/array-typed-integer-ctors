@@ -43,7 +43,8 @@
     "@stdlib/array-uint16": "^0.2.1",
     "@stdlib/array-uint32": "^0.2.1",
     "@stdlib/array-uint8": "^0.2.1",
-    "@stdlib/array-uint8c": "^0.2.1"
+    "@stdlib/array-uint8c": "^0.2.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/array-typed-integer-dtypes": "^0.2.0",
