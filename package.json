@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-typed-integer-ctors",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Integer-valued typed array constructors.",
   "license": "Apache-2.0",
   "author": {
@@ -38,16 +38,16 @@
   },
   "dependencies": {
     "@stdlib/array-int16": "^0.2.2",
-    "@stdlib/array-int32": "^0.2.2",
-    "@stdlib/array-int8": "^0.2.2",
+    "@stdlib/array-int32": "^0.2.3",
+    "@stdlib/array-int8": "^0.2.3",
     "@stdlib/array-uint16": "^0.2.2",
-    "@stdlib/array-uint32": "^0.2.2",
+    "@stdlib/array-uint32": "^0.2.3",
     "@stdlib/array-uint8": "^0.2.2",
-    "@stdlib/array-uint8c": "^0.2.2"
+    "@stdlib/array-uint8c": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-typed-integer-dtypes": "^0.2.2",
-    "@stdlib/assert-is-function": "^0.2.2",
+    "@stdlib/assert-is-function": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
